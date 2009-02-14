@@ -1,0 +1,16 @@
+Source: seminarix-notebook-training
+Section: doc
+Priority: extra
+Maintainer: Dinko Sabo <cobra@sidux.com>
+Build-Depends: debhelper (>= 7)
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>, Ferdinand Thommes <devil@sidux.com>
+Standards-Version: 3.8.0
+Vcs-Svn: svn://svn.berlios.de/fullstory/seminarix-notebook-training/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/seminarix-notebook-training/trunk/
+
+Package: seminarix-notebook-training
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: sidux-edu | seminarix-handbook
+Description: description files for seminarix notebook training
+ Web-Pages for application explanations

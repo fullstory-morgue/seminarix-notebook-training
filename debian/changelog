@@ -1,0 +1,16 @@
+seminarix-notebook-training (0.1.0) unstable; urgency=low
+
+  [ Dinko Sabo ]
+  * Initial Release.
+  * removed whitespaces from file names
+  * removed copyrighted files from datenklau
+  * added external links to datenklau.html 
+  * removed typo from file name 
+  * corrected link
+  * added copyrights
+  * modified charset for übersicht.html
+
+  [ Stefan Lippers-Hollmann ]
+  * fix install target.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 14 Feb 2009 01:56:47 +0100
