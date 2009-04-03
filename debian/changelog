@@ -1,11 +1,15 @@
 seminarix-notebook-training (0.1.1) unstable; urgency=low
 
+  [ Dinko Sabo ]
   * sync with berlios
   * corrected all html files (w3c compatibility)
   * corrected DTD's
   * german umlaute fixed
 
- -- Dinko Sabo <cobra@sidux.com>  Sun, 01 Mar 2009 09:35:03 +0100
+  [ Stefan Lippers-Hollmann ]
+  * bump standards version to 3.8.1, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 04 Apr 2009 01:49:32 +0200
 
 seminarix-notebook-training (0.1.0) unstable; urgency=low
 
