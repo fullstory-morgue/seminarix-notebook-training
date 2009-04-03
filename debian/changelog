@@ -1,8 +1,11 @@
-seminarix-notebook-training (0.1.1) UNRELEASED; urgency=low
+seminarix-notebook-training (0.1.1) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * sync with berlios
+  * corrected all html files (w3c compatibility)
+  * corrected DTD's
+  * german umlaute fixed
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 14 Feb 2009 02:48:40 +0100
+ -- Dinko Sabo <cobra@sidux.com>  Sun, 01 Mar 2009 09:35:03 +0100
 
 seminarix-notebook-training (0.1.0) unstable; urgency=low
 
