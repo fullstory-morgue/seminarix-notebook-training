@@ -1,2 +1,4 @@
 *.html		usr/share/seminarix-notebook-training/
+*.png		usr/share/seminarix-notebook-training/
+seminarix.xml	/usr/share/eduversum/docs/de
 projekte/*	usr/share/seminarix-notebook-training/projekte/
